@@ -1,0 +1,45 @@
+body .ui-page{
+	background: #000;
+}
+
+
+body .ui-content{
+	background: #000 url(images/bg-mobile.jpg) top center no-repeat;
+	background-size:100%;
+	padding-left:30px;
+	padding-right:30px;
+}
+
+#logo{
+	display:block;
+	max-width:225px;
+	height:auto;
+	margin:auto;
+	margin-bottom:40px;
+}
+
+#logo img{
+	display:block;
+	width:100%;
+}
+
+.services-menu{
+	
+}
+
+.portfolio-list{
+	color:#FFF;
+	text-shadow: 0px 0px 0px #000000;
+}
+
+	.portfolio-list img{
+		display:block;
+		width:100%;
+		max-width:225px;
+		margin:auto;
+	}
+	
+	.portfolio-list h2{
+		text-align:center;
+		margin-bottom:10px;
+	}
